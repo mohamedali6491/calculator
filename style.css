@@ -30,7 +30,7 @@ body{
     
     width: 277px;
     height: 30px;
-    color:rgb(52, 125, 235);
+    color:rgb(116, 116, 116);
     font-size: 25px;
     text-align: right;
 }
@@ -48,7 +48,7 @@ body{
 } */
 
 .delete_btn{
-    background: rgb(203, 117, 224);
+    background: rgb(66, 245, 230);
     width: 75px;
     height: 75px;
     list-style: none;
@@ -72,13 +72,14 @@ width: 500px;
 }
 
 .btn{
-    background: rgb(203, 117, 224);
+    background: rgb(66, 245, 230);
     width: 88px;
     height: 100px;
     list-style: none;
     border: none;
     margin-top: 0;
     font-size: 30px;
+    color:rgb(116, 116, 116);
     transition: .05s ease;
 }
 
