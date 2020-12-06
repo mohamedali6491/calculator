@@ -33,6 +33,7 @@ body{
     color:rgb(116, 116, 116);
     font-size: 25px;
     text-align: right;
+    overflow: hidden;
 }
 .down{
     
@@ -41,6 +42,7 @@ body{
     color:  rgb(0, 37, 94);
     font-size: 40px;
     text-align: right;
+    overflow: hidden;
 }
 
 /* .delete{
@@ -58,6 +60,8 @@ body{
 img{
     padding: 7%;
     transition: .05s ease;
+    width: 60px;
+    height: 60px;
 }
 img:active{
     transform: scale(1.2);
@@ -84,8 +88,8 @@ width: 500px;
 }
 
 .btn>img{
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
 }
 
 p:active{
